@@ -1,0 +1,17 @@
+.date-body{
+  background-color: white;
+  padding:0 5px 5px 5px;
+  float: left;
+  border: 1px solid green;
+}
+.date-body .date-title{
+  color: green;
+}
+
+
+.date-body .date-content{
+  background-color: white;
+}
+.date-body .date-content p.dia{
+  margin: 0; font-size: 15px; font-weight: bold;
+}
